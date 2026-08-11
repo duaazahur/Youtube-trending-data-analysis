@@ -70,6 +70,18 @@ Category information is provided through the corresponding JSON files.
 - CSV
 - JSON
 
+## Project Structure
+
+```text
+Youtube-trending-data-analysis/
+├── README.md
+├── youtube_trending_analysis.ipynb
+├── .gitignore
+├── .gitattributes
+└── data/
+    ├── YouTube trending CSV files
+    └── YouTube category JSON files
+```
 
 ## Academic Context
 
@@ -84,17 +96,7 @@ Category information is provided through the corresponding JSON files.
 
 Master's in Data Science
 
-## Project Structure
 
-```text
-Youtube-trending-data-analysis/
-├── README.md
-├── youtube_trending_analysis.ipynb
-├── .gitignore
-├── .gitattributes
-└── data/
-    ├── YouTube trending CSV files
-    └── YouTube category JSON files
 
 
 
